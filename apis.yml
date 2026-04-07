@@ -8,8 +8,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-08'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +22,7 @@ apis:
       guides and documentation to help you start working with partnership API as quickly
       as possible, as well as support if you get stuck. Lets jump right in!
     humanURL: ' https://developer.modifi.com/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://developer.modifi.com/'
