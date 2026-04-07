@@ -1,9 +1,9 @@
 aid: modifi
 name: MODIFI
 description: >-
-  Welcome to the MODIFI partnership API developer hub. Youll find comprehensive
-  guides and documentation to help you start working with partnership API as
-  quickly as possible, as well as support if you get stuck. Lets jump right in! 
+  Welcome to the MODIFI partnership API developer hub. Youll find comprehensive guides
+  and documentation to help you start working with partnership API as quickly as possible,
+  as well as support if you get stuck. Lets jump right in!
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -19,10 +19,9 @@ apis:
   - aid: modifi:modifi
     name: MODIFI
     description: >-
-      Welcome to the MODIFI partnership API developer hub. Youll find
-      comprehensive guides and documentation to help you start working with
-      partnership API as quickly as possible, as well as support if you get
-      stuck. Lets jump right in! 
+      Welcome to the MODIFI partnership API developer hub. Youll find comprehensive
+      guides and documentation to help you start working with partnership API as quickly
+      as possible, as well as support if you get stuck. Lets jump right in!
     humanURL: ' https://developer.modifi.com/'
     tags:
       - API
