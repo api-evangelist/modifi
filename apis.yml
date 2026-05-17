@@ -26,7 +26,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.modifi.com/
-      - type: API Reference
+      - type: APIReference
         url: https://developer.modifi.com/reference
       - type: Website
         url: https://www.modifi.com/
