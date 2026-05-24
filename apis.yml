@@ -17,6 +17,8 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/modifi-moderndigitalfinance
+  - type: LLMsTxt
+    url: https://developer.modifi.com/llms.txt
 apis:
   - aid: modifi:modifi
     name: MODIFI
