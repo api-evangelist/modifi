@@ -1,0 +1,12 @@
+# MODIFI Partnership API Documentation
+
+> Documentation for MODIFI Partnership API
+
+## Guides
+- [Introduction](https://developer.modifi.com/docs/getting-started.md): This page will help you get started with partnership API. You'll be up and running in a jiffy!
+- [Glossary](https://developer.modifi.com/docs/authorisation-guide-copy.md): Here you can learn the main terms we are using across our API documentation.
+- [List of error codes](https://developer.modifi.com/docs/comprehensive-list-of-error-codes.md)
+
+## Pages
+- [FAQ](https://developer.modifi.com/page/faq.md)
+- [Glossary](https://developer.modifi.com/page/glossary.md)
