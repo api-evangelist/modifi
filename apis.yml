@@ -25,7 +25,7 @@ tags:
   - Transactions
 created: '2025-02-08'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/modifi-domain-security.yml
