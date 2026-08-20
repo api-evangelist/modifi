@@ -22,6 +22,11 @@ tags:
   - Trade Finance
   - Financing
   - Partnerships
+  - Transaction
+tags_raw:
+  - Trade Finance
+  - Financing
+  - Partnerships
   - Transactions
 created: '2025-02-08'
 modified: '2026-04-28'
@@ -39,6 +44,10 @@ apis:
     description: MODIFI's partnership API supports trade finance transaction requests, financing status evaluation, and transaction management.
     humanURL: https://developer.modifi.com/
     tags:
+      - Trade Finance
+      - Financing
+      - Transaction
+    tags_raw:
       - Trade Finance
       - Financing
       - Transactions
